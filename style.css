@@ -105,6 +105,6 @@ a{
   }
 
  #btn:hover {
-    background-color: #de0ce6; /* Green */
-    color: white;
+    background-color: rgb(202, 180, 238);
+    color: black;
   }
