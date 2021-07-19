@@ -1,0 +1,105 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body
+{
+    overflow: hidden;
+}
+a{
+    font-size: 17px;
+    color: rgb(202, 180, 238);
+}
+
+.webgl
+{
+    
+    position: fixed;
+    top: 5%;
+    left: 0;
+    outline: none;
+    
+}
+
+.header
+{
+    position:fixed;
+    position:sticky;
+    
+
+    top: 0;
+    left: 0;
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    color: aliceblue;
+    outline: none;
+    text-align: center;
+    
+}
+
+.label{
+    color: rgb(139, 27, 115);
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    
+}
+
+.label2{
+    color: rgb(139, 27, 115);
+    position: absolute;
+    top: 15%;
+    left: 5%;
+    size: 0px
+}
+
+.label3{
+    color: rgb(139, 27, 115);
+    position: absolute;
+    top: 20%;
+    left: 5%;
+}
+
+.link
+{
+    color: rgb(71, 18, 156);
+}
+
+
+.point .label
+{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+
+    border-radius: 50%;
+    background: #00000077;
+    border: 1px solid #ffffff77;
+    color: #ffffff;
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+    line-height: 80px;
+    font-weight: 100;
+    font-size: 15px;
+}
+
+
+#btn {
+    position: absolute;
+    bottom: 10%;
+    left: 5%;
+
+    background-color: #00000077;
+    border: 1px solid #ffffff77;
+    color: #ffffff;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+   
+  }
