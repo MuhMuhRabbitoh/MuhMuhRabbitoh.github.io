@@ -1,17 +1,13 @@
 package masterThesis;
 
-//import java.lang.reflect.Array;
-//import java.util.ArrayList;
+
 import java.util.Random;
 
 import repast.simphony.context.Context;
-//import repast.simphony.context.space.continuous.ContinuousSpaceFactoryFinder;
 import repast.simphony.context.space.grid.GridFactoryFinder;
 import repast.simphony.dataLoader.ContextBuilder;
 import repast.simphony.engine.environment.RunEnvironment;
 import repast.simphony.parameter.Parameters;
-//import repast.simphony.space.continuous.ContinuousSpace;
-//import repast.simphony.space.continuous.RandomCartesianAdder;
 import repast.simphony.space.grid.Grid;
 import repast.simphony.space.grid.GridBuilderParameters;
 import repast.simphony.space.grid.RandomGridAdder;
